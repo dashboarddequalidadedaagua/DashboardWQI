@@ -229,8 +229,6 @@ ABERTURA_SUBTITULO = "Antes de enviar, confira:"
 ABERTURA_ITENS = [
     "Formatos: .xlsx, .xls ou .csv",
     "Células vazias nas variáveis: são permitidas e preenchidas pelo método dos modelos.",
-    ("Valores fora da faixa usada no treino dos modelos: a linha inteira é removida "
-     "por um filtro de qualidade."),
     "Valores extremos: são ajustados pelo método dos modelos.",
 ]
 EXPANDER_PREPARAR = "Como preparar sua planilha"
